@@ -45,8 +45,3 @@ Um das Projekt auszuführen, werden folgende Komponenten benötigt:
 ---
 
 📌 **Hinweis**: Dieses Projekt wurde zu **Lernzwecken** erstellt.
-# 3. Lade den Code auf das STM32 NUCLEO F446RE Board hoch.
-
-# 4. Verbinde HTerm mit dem Mikrocontroller und übertrage Frequenzwerte.
-
-# 5. Beobachte die Ausgabe auf dem OLED-Display.
