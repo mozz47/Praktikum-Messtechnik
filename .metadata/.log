@@ -1,0 +1,32 @@
+!SESSION 2022-06-23 09:47:39.523 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-23 09:48:02.295
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-23 09:48:02.412
+!MESSAGE Log4j initialized with config file C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-23 09:48:06.288
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-06-23 09:49:37.890 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-23 09:49:47.806
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-23 09:49:47.910
+!MESSAGE Log4j initialized with config file C:\Users\pmosk\OneDrive\Desktop\Labor C\block2\LC-BLOCK2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-23 09:49:51.787
+!MESSAGE Started RMI Server, listening on port 41337
